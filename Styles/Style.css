@@ -1,0 +1,41 @@
+
+body {color: #666666;
+	background-color: #82CAFA;
+	font-family: Verdana, Arial, sans-serif;
+	}
+	
+main { 
+	background-color: #EDE275;
+}
+header {background-color: #FFFFFF;
+	color: #EDE275;
+	font-family: Georgia, serif;
+	overflow
+	}
+nav {background-color: #FFFFFF;
+	font-weight: bold;
+	}
+h2{ color: #3399CC;
+	font-family: Georgia, serif;
+	}
+dt {color: #000033; font-weight: bold;}
+.resort{ font-size: 1.2em;
+		color: #00008b;
+		}
+footer{font-size: small; 
+	font-style: italic; 
+	text-align: center;
+	}
+h1 {line-height: 200%;}
+
+#floatLeft{float: left;
+	
+}
+#center{color: black;
+		margin-left: auto;
+		margin-right: auto;}
+		
+#wraper{width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		}
